@@ -3,12 +3,10 @@ layout: page
 title: About
 ---
 
-Some information about you!
+I'm a web developer living in Boulder, CO. I work for [SendGrid](http://sendgrid.com). I make beautiful and blazingly fast websites.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+I like to travel, rock climb, hike, snowboard, and learn languages.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kevindsweet@gmail.com](mailto:kevindsweet@gmail.com)
