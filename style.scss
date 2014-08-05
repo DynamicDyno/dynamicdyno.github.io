@@ -19,7 +19,7 @@ html {
 
 body {
   background: $white;
-  font: $open_sans;
+  font-family: $open_sans;
   color: $darkGray;
 }
 
@@ -31,11 +31,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $open_sans;
   color: $darkerGray;
-  font-weight: 600;
   
-  line-height: 1.7;
+  line-height: 1.5;
   margin: 1em 0 15px;
   padding: 0;
 
@@ -45,20 +43,21 @@ h1, h2, h3, h4, h5, h6 {
 }
   
 h1 {  
-  font-weight: 500;
-  font-size: 32px;
+  font-weight: 600;
+  font-size: 3em;
   a {
     color: inherit;
   }
 }
 
-h2 {  
-  font-weight: 400;
-  font-size: 24px;
+h2 {
+  font-size: 2em;
 }
 
 h3 {  
-  font-size: 18px;
+  font-size: 1.5em;
+  margin-bottom: 0;
+  color: #555;
 }
 
 h4 {  
@@ -67,7 +66,11 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin: 0 0 30px;
+  line-height: 1.5;
+  font-size: 1.15em;
+  letter-spacing: 0.01rem;
+  font-weight: 300;
 }
 
 a {
