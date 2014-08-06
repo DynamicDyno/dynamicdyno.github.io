@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New site & move to Jekyll
+title: New Site, Jekyll, & GitHub Pages
 description: Migrating my website and blog to Jekyll and GitHub Pages
 ---
 
