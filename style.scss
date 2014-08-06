@@ -291,9 +291,10 @@ nav {
 }
 
 .post-item {
-  width: 400px;
-  margin: 0 auto;
+  width: 480px;
+  margin: 0 auto 20px;
   font-size: 1.15em;
+  overflow: hidden;
 
   @include mobile {
     width: 100%;
