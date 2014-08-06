@@ -10,7 +10,7 @@ People do amazing things. Search YouTube for "people are amazing" and marvel at 
 
 When someone says this, it basically means, "that person is way better than me at something. It's not because I'm lazy. It's because that person is naturally better at it."
 
-That's a steaming pile of bovine waste.
+It's a steaming pile of bovine waste.
 
 Most people by now have heard of the "10,000-hour rule," made popular by Malcolm Gladwell in *Outliers* (and further popularized by Macklemore & Ryan Lewis). It basically says, when you spend a lot of time doing something, you get good at it. The Beatles spent 10,000 hours playing live shows in the early 60s and they got good at making and creating music. Bill Gates spent 10,000 hours programming in the late 60s and became a genius programmer. And so on.
 
