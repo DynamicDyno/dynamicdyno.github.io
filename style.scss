@@ -15,12 +15,25 @@
 
 html {
   font-size: 100%;
+  height: 100%;
 }
 
 body {
   background: $white;
   font-family: $open_sans;
   color: $darkGray;
+  height: 100%;
+}
+
+.page-wrap {
+  min-height: 100%;
+  margin-bottom: -164px;
+}
+
+.page-wrap:after {
+  content: "";
+  display: block;
+  height: 164px;
 }
 
 .container {
@@ -31,10 +44,10 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #555;
+  color: $teal;
   
   line-height: 1.5;
-  margin: 1em 0 15px;
+  margin: 30px 0 15px;
   padding: 0;
 
   @include mobile {
@@ -66,18 +79,20 @@ h4 {
 
 p {
   margin: 0 0 30px;
-  line-height: 1.5;
+  line-height: 1.7;
   font-size: 1.15em;
   letter-spacing: 0.01rem;
   font-weight: 300;
 }
 
 a {
-  color: $blue;
+  color: $teal;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
+  font-weight: 400;
   &:hover, &:active {
-    color: $blue;
+    color: $teal;
+    text-decoration: underline;
   }
 }
 
@@ -120,14 +135,14 @@ img {
 }
 
 // Specify the color of the selection
-::-moz-selection {
-  color: $black;
-  background: $lightGray;
-}
-::selection {
-  color: $black;
-  background: $lightGray;
-}
+//::-moz-selection {
+//  color: $black;
+//  background: $lightGray;
+//}
+//::selection {
+//  color: $black;
+//  background: $lightGray;
+//}
 
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
@@ -191,9 +206,8 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $teal;
   cursor: pointer;
-  font-family: $helveticaNeue; 
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -270,8 +284,13 @@ nav {
   }
 }
 
+.post-date {
+  color: #555;
+}
+
 .wrapper-footer {
-  margin-top: 50px;
+  height: 84px;
+  margin-top: 80px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
