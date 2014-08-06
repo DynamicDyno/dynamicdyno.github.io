@@ -284,8 +284,39 @@ nav {
   }
 }
 
+.post-list {
+  list-style: none;
+  padding-left: 0;
+  text-align: center;
+}
+
+.post-item {
+  width: 400px;
+  margin: 0 auto;
+  font-size: 1.15em;
+
+  @include mobile {
+    width: 100%;
+    line-height: 1.4;
+  }
+}
+
+.post-link {
+  float: left;
+
+  @include mobile {
+    float: none;
+    display: block;
+  }
+}
+
 .post-date {
-  color: #555;
+  float: right;
+  text-transform: uppercase;
+
+  @include mobile {
+    float: none;
+  }
 }
 
 .wrapper-footer {
