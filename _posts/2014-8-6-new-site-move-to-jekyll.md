@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New site & move to Jekyll
+description: Migrating my website and blog to Jekyll and GitHub Pages
 ---
 
 Well, that was a long hiatus. Much longer than I'd like to admit or count. I almost let this domain expire a year ago. I decided I didn't want to put my old site back up, so the domain sat in limbo for awhile. Eight months ago I decided to make a new site, and got about as far as making a header. Meanwhile, [kevinsweet.com]({{site.baseurl}}/) was returning a 404. Yesterday I decided to finally get something up and running, and I'm pretty satisfied with the setup I worked together.
