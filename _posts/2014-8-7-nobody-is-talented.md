@@ -12,7 +12,7 @@ When someone says this, it basically means, "that person is way better than me a
 
 It's a steaming pile of bovine waste.
 
-Most people by now have heard of the "10,000-hour rule," made popular by Malcolm Gladwell in *Outliers* (and further popularized by Macklemore & Ryan Lewis). It basically says, when you spend a lot of time doing something, you get good at it. The Beatles spent 10,000 hours playing live shows in the early 60s and they got good at making and creating music. Bill Gates spent 10,000 hours programming in the late 60s and became a genius programmer. And so on.
+Most people by now have heard of the "10,000-hour rule," made popular by Malcolm Gladwell in *Outliers* (and further popularized by Macklemore & Ryan Lewis). It basically says, when you spend a lot of time doing something, you get good at it. The Beatles spent 10,000 hours playing live shows in the early 60s and they got good at making and playing music. Bill Gates spent 10,000 hours programming in the late 60s and became a genius programmer. And so on.
 
 I don't think anyone would argue with that. But when people start talking about how talented another person is, they imply that certain people don't need to put in the work to become skilled. At best this is wrong and at worst it's harmful thinking that encourages us to not try.
 
