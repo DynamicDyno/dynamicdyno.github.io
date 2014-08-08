@@ -296,16 +296,20 @@ nav {
 
 .post-item {
   width: 480px;
-  margin: 0 auto 20px;
+  margin: 0 auto;
+  padding: 10px 0;
   font-size: 1.15em;
   line-height: 1.4em;
   overflow: hidden;
+  border-bottom: 1px solid #eee;
 
   @include mobile {
     width: 100%;
     line-height: 1.4;
   }
 }
+
+.post-item:last-child { border-bottom: none; }
 
 .post-link {
   float: left;
@@ -319,6 +323,11 @@ nav {
 .post-date {
   float: right;
   text-transform: uppercase;
+  font-family: "Courier New", Courier, monospace;
+  line-height: 25px;
+  margin-top: 3px;
+  font-size: 1rem;
+  color: #999;
 
   @include mobile {
     float: none;
