@@ -1,8 +1,6 @@
 # kevinsweet.com
 
-Everything in this repository is free and open source. Feel free to fork it and make your own website from it. Feel free to take, change, steal, or do whatever you want with the code here.
-
-Also feel free to submit a pull request to change anything on this website.
+Feel free to submit a pull request to change anything on this website.
 
 ## Things to not forget
 
