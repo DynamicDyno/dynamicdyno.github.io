@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 
   @include mobile {
-    line-height: 1.4;
+    line-height: 1.1;
   }
 }
   
@@ -61,19 +61,31 @@ h1 {
   a {
     color: inherit;
   }
+
+  @include mobile {
+    font-size: 2.25em;
+  }
 }
 
 h2 {
   font-size: 2.25em;
+
+  @include mobile {
+    font-size: 2em;
+  }
 }
 
 h3 {  
   font-size: 1.75em;
   margin-bottom: 0;
+
+  @include mobile {
+    font-size: 1.5em;
+  }
 }
 
 h4 {  
-  font-size: 18px;
+  font-size: 1.25em;
   color: $gray;
 }
 
