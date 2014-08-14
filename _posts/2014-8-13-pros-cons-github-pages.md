@@ -26,7 +26,7 @@ I'll start with the positives.
 
 - **Less control over URLs** - I'm picky about my URLs, I'll admit. The two options you have for how a post URL ends is attaching an extension, such as `www.kevinsweet.com/my-post.html`. Personally, I wouldn't be caught dead using a .html extension. Your other option is a trailing slash, like `www.kevinsweet.com/my-post/`. Personally, I'd love for that slash to be gone, but what can you do. This only affects Jekyll posts, and not regular html pages. For example, the URL for my about page is `www.kevinsweet.com/about`. I wish Jekyll would generate the posts in the same way.
 
-- **Low Cache Expires** - GitHub sets the `cache-control: max-age` header to 600 seconds, or ten minutes. Normally, you would set this value to a year so that it stays cached, and then use fingerprinting on your assets. Instead of serving `style.css`, you would serve something like `style-62c887ea7cf54e743ecf3ce6c62a4ed6.css`. As it stands now, assets are rarely going to be cached on repeat visits.
+- **Low cache expires** - GitHub sets the `cache-control: max-age` header to 600 seconds, or ten minutes. Normally, you would set this value to a year so that it stays cached, and then use fingerprinting on your assets. Instead of serving `style.css`, you would serve something like `style-62c887ea7cf54e743ecf3ce6c62a4ed6.css`. As it stands now, assets are rarely going to be cached on repeat visits.
 
 - **No cookies to change HTML** - Sometimes it's useful to change what HTML you send a visitor, based on a cookie. The Filament Group [uses a cookie as a flag for whether or not to inline CSS](http://filamentgroup.com/lab/performance-rwd.html). This is inherently not possible with a static site.
 
