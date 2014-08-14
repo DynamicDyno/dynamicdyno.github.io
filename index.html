@@ -5,7 +5,7 @@ layout: default
 <div class="posts">
   <ul class="post-list">
     {% for post in site.posts %}
-      <li class="post-item"><a href="{{ site.baseurl }}{{ post.url }}" class="post-link">{{ post.title }}</a><span class="post-date">{{ post.date | date_to_string }}</span></li>
+      <li class="post-item"><a href="{{ site.baseurl }}{{ post.url }}/" class="post-link">{{ post.title }}</a><span class="post-date">{{ post.date | date_to_string }}</span></li>
     {% endfor %}
   </ul>
 </div>
