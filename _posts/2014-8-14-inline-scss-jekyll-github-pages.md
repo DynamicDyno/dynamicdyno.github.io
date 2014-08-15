@@ -4,7 +4,7 @@ title: Inline SCSS with Jekyll and GitHub Pages
 description: Inline critical SCSS without using plugins on Jekyll and GitHub Pages
 ---
 
-If you stay up-to-date on website performance then you've probably heard of the *critical path* and reducing the time it takes for a browser to start rendering a page. One of the most important things we can do is to remove render-blocking requests.
+If you stay up-to-date on website performance then you've probably heard of the [critical path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/) and reducing the time it takes for a browser to start rendering a page. One of the most important things we can do is to remove render-blocking requests.
 
 The browser can't start rendering anything until external CSS files have been loaded. Google [recommends inlining above-the-fold CSS](https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery). So any CSS that styles content above-the-fold should be inlined in the `<head>` tag, and any non-critical CSS should be loaded asynchronously, so it doesn't block the rendering of the page.
 
