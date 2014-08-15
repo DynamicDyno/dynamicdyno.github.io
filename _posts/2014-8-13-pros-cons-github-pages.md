@@ -31,3 +31,5 @@ I'll start with the positives.
 - **No cookies to change HTML** - Sometimes it's useful to change what HTML you send a visitor, based on a cookie. The Filament Group [uses a cookie as a flag for whether or not to inline CSS](http://filamentgroup.com/lab/performance-rwd.html). This is inherently not possible with a static site.
 
 - **No Grunt / Gulp / Rake / etc. tasks** - This is only true if you're letting GitHub generate the site for you. Still, you lose a whole lot of power and flexibility without any build system.
+
+- **No SSL support** - You *can* use SSL if you don't care about using a custom domain. I could use `https://dynamicdyno.github.io`, but I can't use `https://kevinsweet.com'. This isn't a huge deal--my site doesn't have any forms, but Google just announced that [sites using HTTPS will get preferential SEO treatment](http://www.newsledge.com/seo-google-encryption-let-rush-https-begin-8485). Serving sites over a secure connection is a good practice in general.
