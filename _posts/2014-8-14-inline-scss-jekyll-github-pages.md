@@ -10,7 +10,7 @@ The browser can't start rendering anything until external CSS files have been lo
 
 If you're using plain CSS files, this is very simple. Place `critical.css` in the `_includes` directory, and then do:
 
-{% highlight ruby %}
+{% highlight html %}
 <head>
   <style type="text/css">
     {% raw  %}{% include critical.scss %}{% endraw %}
@@ -22,7 +22,7 @@ If, however, you're using SCSS or SASS files, this has been impossible without u
 
 We can use these filters to inline our SCSS like so:
 
-{% highlight ruby %}
+{% highlight html %}
 <head>
   <style type="text/css">
     {% raw  %}{% capture include_to_scssify %}{% endraw %}
