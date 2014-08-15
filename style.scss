@@ -149,6 +149,8 @@ pre {
   background-color: rgba(0,0,0,.05);
   padding: 10px 15px;
   margin-bottom: 30px;
+  overflow: auto;
+  word-wrap: normal;
 }
 
 code {
