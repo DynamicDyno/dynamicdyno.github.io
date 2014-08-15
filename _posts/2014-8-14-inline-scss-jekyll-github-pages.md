@@ -13,7 +13,7 @@ If you're using plain CSS files, this is very simple. Place `critical.css` in th
 {% highlight html %}
 <head>
   <style type="text/css">
-    {% raw  %}{% include critical.scss %}{% endraw %}
+    {% raw  %}{% include critical.css %}{% endraw %}
   </style>
 </head>
 {% endhighlight %}
