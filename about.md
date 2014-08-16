@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+canonical: http://www.kevinsweet.com/about
 ---
 
 I'm a front end developer living in Boulder, CO. I work for [SendGrid](http://sendgrid.com). I make beautiful and blazingly fast websites.
