@@ -30,4 +30,12 @@ Who cares? They *are* spreading awareness, and the fundraiser *is* working. Peop
 
 Do you get mad at people who work traditional fundraisers because they're only contributing their time, but not their money? You do? All right then, that does explain things.
 
+There's a street performer in Boulder who gathers a large crowd and while performing tells them:
+
+> Listen, I don't need a hundred of you to give me a dollar. All I need is one of you to give me a hundred dollars.
+
+Likewise, the ALS Association doesn't need every person to donate. But the more people who participate, even without donating, can only help the association and, in turn, people with Lou Gehrig's Disease.
+
+### I'm convinced. What now?
+
 I propose that we all take a chill pill, enjoy [LeBron James screaming like a little girl](http://instagram.com/p/rzLh7nCTEk), and stop the fucking naysaying.
