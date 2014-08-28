@@ -22,6 +22,7 @@ body {
   font-family: $open_sans;
   color: $darkGray;
   height: 100%;
+  text-rendering: optimizeLegibility;
 }
 
 .page-wrap {
@@ -191,8 +192,15 @@ code {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  width: 100%;
+  z-index: 100;
   border-bottom: 1px solid $lightGray;
+  background-color: rgba(255,255,255,.9);
+  margin-bottom: 50px;
+}
+
+.wrapper-masthead.image-post {
+  position: absolute;
 }
 
 .masthead {
@@ -294,6 +302,52 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+}
+
+.main-image-clear {
+  height: 100vh;
+  margin-bottom: 80px;
+}
+
+.post-main-image {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.image-h1-wrapper-outer {
+  height: 100vh;
+  width: 100%;
+  display: table;
+  position: relative;
+  z-index: 50;
+  background: linear-gradient(to top, rgba(0, 0, 0, .4), rgba(0, 0, 0, 0));
+}
+
+.image-h1-wrapper {
+  display: table-cell;
+  width: 100%;
+  vertical-align: bottom;
+  padding-bottom: 150px;
+
+  @media (max-height: 500px) {
+    padding-bottom: 50px;
+  }
+}
+
+.image-h1-wrapper h1 {
+  color: #fff;
+  font-family: $helveticaNeue;
+  font-weight: 700;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .post { 

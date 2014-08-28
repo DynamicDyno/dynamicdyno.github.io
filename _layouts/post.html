@@ -1,17 +1,40 @@
 ---
 layout: default
 ---
-
-<article class="post">
-  <h1>{{ page.title }}</h1>
-
-  <div class="entry">
-    {{ content }}
+{% if page.image %}
+  <div class="main-image-clear">
+    <div class="post-main-image" style="background-image: url(/images/{{ page.image }});"></div>
+    <div class="image-h1-wrapper-outer">
+      <div class="image-h1-wrapper">
+        <div class="container post-title-container" data-top="transform: translate3d(0, 0px, 0); opacity: 1;" data-top-bottom="transform: translate3d(0, 100px, 0); opacity: 0;" data-anchor-target=".main-image-clear">
+          <h1>{{ page.title }}</h1>
+        </div>
+      </div>
+    </div>
   </div>
+{% endif %}
 
-  <div class="date">
-    Penned on {{ page.date | date: "%B %e, %Y" }} by <a href="https://plus.google.com/117958627560206408639?rel=author">Kevin Sweet</a>
-  </div>
+<div id="main" role="main" class="container">
+  <article class="post">
+    {% if page.image == nil %}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
 
-  {% include disqus.html disqus_identifier=page.disqus_identifier %}
-</article>
+    <div class="entry">
+      {{ content }}
+    </div>
+
+    <div class="date">
+      Penned on {{ page.date | date: "%B %e, %Y" }} by <a href="https://plus.google.com/117958627560206408639?rel=author">Kevin Sweet</a>
+    </div>
+
+    {% include disqus.html disqus_identifier=page.disqus_identifier %}
+  </article>
+</div>
+
+<script type="text/javascript">
+  // due to turbolinks, scrollr needs to be refreshed to update itself.
+  if (typeof skrollr !== 'undefined') {
+    s.refresh();
+  }
+</script>

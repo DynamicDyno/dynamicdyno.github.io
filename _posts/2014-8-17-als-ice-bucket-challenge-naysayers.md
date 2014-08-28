@@ -2,6 +2,7 @@
 layout: post
 title: To the ALS Ice Bucket Challenge Naysayers
 description: A short message to the naysayers who want to be grumpy about the ALS Ice Bucket Challenge fundraiser.
+image: money-bucket.jpg
 ---
 
 Hello, naysayers of the ALS Ice Bucket Challenge. I have a quick message for you:
