@@ -1,17 +1,18 @@
 ---
 layout: post
-title: My Bucketlist
-description: An ever-evolving bucketlist of things I really want to do before I die. I'm serious about doing all of them.
+title: My Bucket List
+description: An ever-evolving bucket list of things I really want to do before I die. I'm serious about doing all of them.
 image: northern-lights.jpg
+redirect_from: "/my-bucketlist/"
 ---
 
-I'm 26 years old and I'm finally starting a bucketlist. I expect that it will change over time. I'll add to it as I see fit, and I won't feel bad about removing something if my goals and ambitions in life change. For the most part, though, I think these are all attainable and that they'll be important enough to me that I'll follow through. This list doesn't include things that I've done in the past. For instance, I've already gone skydiving, but I'm not listing that. This list only includes things that I haven't yet done as of August 31, 2014. 
+I'm 26 years old and I'm finally starting a bucket list. I expect that it will change over time. I'll add to it as I see fit, and I won't feel bad about removing something if my goals and ambitions in life change. For the most part, though, I think these are all attainable and that they'll be important enough to me that I'll follow through. This list doesn't include things that I've done in the past. For instance, I've already gone skydiving, but I'm not listing that. This list only includes things that I haven't yet done as of August 31, 2014. 
 
 I fully intend to 100% do all of the following.
 
 - **Visit every country** - I'm hesitant to list this. It's not that I don't want to go to every country in the world--I just don't want to go to every country for the sake of going to every country. [This person visited every country in the world](http://www.reddit.com/r/IAmA/comments/1nnd7q/ive_been_to_every_country_in_the_world_now_im/), but I would barely consider his trip impressive. He counted visiting The Czech Republic because his train went through it from Poland to Slovakia. His time in Chile was 3 hours waiting for a bus to Peru. I want to see and experience every country, not stick a foot in and tick a checklist. Instead of going to the [North Korea room](https://www.youtube.com/watch?v=MWa9MGuwQNI), why not run the [North Korean marathon](http://www.slate.com/articles/news_and_politics/roads/2014/04/pyongyang_s_2014_marathon_north_korea_opens_its_race_to_foreigners.html)? The goal of traveling the world should be about experiences, not ticking a checklist.  
 
-- **Live on every continent** - More than just visiting a continent, I'd like to lay down roots in every continent for at least 6 - 12 months. The only hard part about this might be Antarctica. I think living in Antarctica would itself be an incredible experience, but if I don't complete this bucketlist item, Antarctica will probably be the reason.
+- **Live on every continent** - More than just visiting a continent, I'd like to lay down roots in every continent for at least 6 - 12 months. The only hard part about this might be Antarctica. I think living in Antarctica would itself be an incredible experience, but if I don't complete this bucket list item, Antarctica will probably be the reason.
 
 - **Visit all 50 states** - Like my issue with visiting every country, I don't want to just drive through a state and tick the checklist. At the bare minimum, I should see whatever the state is most known for.
 
