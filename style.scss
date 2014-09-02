@@ -19,11 +19,13 @@ html {
 
 body {
   background: $white;
-  font-family: $vollkorn;
+  font-family: $lora;
   color: $darkGray;
   height: 100%;
   text-rendering: optimizeLegibility;
-  color: rgba(0,0,0,.65);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: rgba(0,0,0,.75);
 }
 
 .page-wrap {
@@ -46,8 +48,10 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: $teal;
+  font-family: $helveticaNeue;
   
   line-height: 1.5;
+  font-weight: 600;
   margin: 30px 0 15px;
   padding: 0;
 
@@ -59,7 +63,6 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 3em;
   line-height: 1;
-  font-family: $helveticaNeue;
   font-weight: 500;
   a {
     color: inherit;
@@ -98,7 +101,6 @@ p {
   font-size: 1.25em;
   letter-spacing: 0.01rem;
   font-weight: 300;
-  -webkit-font-smoothing: antialiased;
 
   @include mobile {
     font-size: 1.1em;
@@ -177,7 +179,7 @@ code {
 }
 
 ::-moz-selection {
-  background: $blue;
+  background: #FFC758;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -350,6 +352,7 @@ nav {
 }
 
 .image-h1-wrapper h1 {
+  -webkit-font-smoothing: auto;
   color: #fff;
   font-weight: 700;
   text-align: center;
