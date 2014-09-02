@@ -408,6 +408,7 @@ nav {
 
 .post-link {
   float: left;
+  font-family: $helveticaNeue;
 
   @include mobile {
     float: none;
