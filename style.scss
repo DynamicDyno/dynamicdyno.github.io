@@ -206,8 +206,8 @@ code {
 .wrapper-masthead {
   width: 100%;
   z-index: 100;
-  border-bottom: 1px solid $lightGray;
-  background-color: rgba(255,255,255,.9);
+  border-bottom: 1px solid $lightBorder;
+  background-color: rgba(255, 255, 255, .7);
   margin-bottom: 50px;
   font-family: $helveticaNeue;
 }
@@ -290,7 +290,6 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -307,7 +306,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $lightBorder;
 }
 
 .posts > .post:last-child {
@@ -433,8 +432,8 @@ nav {
 .wrapper-footer {
   height: 84px;
   margin-top: 80px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-top: 1px solid $lightBorder;
+  border-bottom: 1px solid $lightBorder;
   background-color: $lightGray;
 }
 
