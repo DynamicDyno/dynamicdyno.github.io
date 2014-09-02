@@ -19,10 +19,11 @@ html {
 
 body {
   background: $white;
-  font-family: $open_sans;
+  font-family: $vollkorn;
   color: $darkGray;
   height: 100%;
   text-rendering: optimizeLegibility;
+  color: rgba(0,0,0,.65);
 }
 
 .page-wrap {
@@ -58,6 +59,8 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 3em;
   line-height: 1;
+  font-family: $helveticaNeue;
+  font-weight: 500;
   a {
     color: inherit;
   }
@@ -95,6 +98,12 @@ p {
   font-size: 1.25em;
   letter-spacing: 0.01rem;
   font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+
+  @include mobile {
+    font-size: 1.1em;
+    line-height: 1.5;
+  }
 }
 
 a {
@@ -135,6 +144,7 @@ em, i {
 
 strong, b {
   font-weight: 600;
+  color: rgba(0,0,0,.85);
 }
 
 img {
@@ -143,7 +153,8 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: rgba(25, 25, 25, .65);
+  letter-spacing: .02em;
 }
 
 pre {
@@ -161,15 +172,13 @@ code {
 
 }
 
-// Specify the color of the selection
-//::-moz-selection {
-//  color: $black;
-//  background: $lightGray;
-//}
-//::selection {
-//  color: $black;
-//  background: $lightGray;
-//}
+::selection {
+  background: #FFC758;
+}
+
+::-moz-selection {
+  background: $blue;
+}
 
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
@@ -197,6 +206,7 @@ code {
   border-bottom: 1px solid $lightGray;
   background-color: rgba(255,255,255,.9);
   margin-bottom: 50px;
+  font-family: $helveticaNeue;
 }
 
 .wrapper-masthead.image-post {
@@ -266,7 +276,6 @@ code {
 nav {
   float: right;
   margin-top: 26px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue; 
   font-size: 18px;
   
   @include mobile {
@@ -285,7 +294,6 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
     }
   }
 }
@@ -343,11 +351,8 @@ nav {
 
 .image-h1-wrapper h1 {
   color: #fff;
-  font-family: $helveticaNeue;
   font-weight: 700;
   text-align: center;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 .post { 
@@ -381,7 +386,7 @@ nav {
 }
 
 .post-item {
-  width: 480px;
+  width: 550px;
   margin: 0 auto;
   padding: 10px 0;
   font-size: 1.25em;
