@@ -24,7 +24,14 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
 
     <script src="/javascript/application.js" type="text/javascript" async></script>
-    <link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
+
+    <meta content="{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}" property="og:title">
+    {% if page.image %}
+      <meta content="/images/{{ page.image }}" property="og:image">
+    {% endif %}
+    <meta content="{% if page.canonical %}{{ page.canonical }}{% else %}{{ site.url }}{{ page.url }}/{% endif %}" property="og:url">
+    <meta content="{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}" property="og:site_name">
+    <meta content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" property="og:description">
   </head>
 
   <body id="skrollr-body">
