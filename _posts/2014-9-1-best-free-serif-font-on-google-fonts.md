@@ -13,7 +13,7 @@ It's not just that there are no good serif fonts. Several are quite good, but do
 
 ### How can I make it lighter?
 
-There are also a few CSS hacks you can do to make fonts appear a bit lighter. Since Lora doesn't have anything lighter than 400, let's give those a try.
+There are also a few CSS hacks you can use to make fonts appear a bit lighter. Since Lora doesn't have anything lighter than 400, let's give those a try.
 
 {% highlight css %}
 -webkit-font-smoothing: antialiased;
@@ -22,7 +22,7 @@ color: rgba(0, 0, 0, .75);
 letter-spacing: .01em;
 {% endhighlight %}
 
-Choosing `-webkit-font-smoothing: antialiased` is usually a bad idea for dark text on a white background. It's possible to end up with blurrier text, since the default font-smoothing webkit uses is sub-pixel anti-aliasing. Webkit tends to draw light text on dark backgrounds too heavy, so choosing anti-aliasing there can be a good option. Typically you wouldn't do that for body text. However, since our font doesn't have a lighter weight, this will make it look lighter. Note, however, that it will be slightly blurrier, since you're not using sub-pixel anti-aliasing. The overall effect should be improved.
+Choosing `-webkit-font-smoothing: antialiased` is usually a bad idea for dark text on a white background. It's possible to end up with blurrier text, since the default font-smoothing webkit uses is sub-pixel anti-aliasing. Webkit tends to draw light text on dark backgrounds too heavy, so choosing anti-aliasing there can be a good option. Typically you wouldn't do that for body text. However, since our font doesn't have a lighter weight, this will make it look lighter. Note, however, that it will be slightly blurrier, since you're not using sub-pixel anti-aliasing. The overall effect should be improved though.
 
 `-moz-osx-font-smoothing: grayscale` is a similar setting for Firefox.
 
