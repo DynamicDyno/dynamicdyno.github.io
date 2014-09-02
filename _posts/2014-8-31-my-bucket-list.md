@@ -28,6 +28,6 @@ I fully intend to 100% do all of the following.
 
 - **Bungee jumping** - I can't believe I still haven't done this.
 
-- **Experience zero gravity** - I'm crossing my fingers that trips to space are affordable in my lifetime. Going to space, even for a very short period of time, would be worth a lot of money to me. If that isn't psosible, though, I'll settle for those [planes that do parabolic arcs](http://www.gozerog.com/).
+- **Experience zero gravity** - I'm crossing my fingers that trips to space are affordable in my lifetime. Going to space, even for a very short period of time, would be worth a lot of money to me. If that isn't possible, though, I'll settle for those [planes that do parabolic arcs](http://www.gozerog.com/).
 
 I have a lot to do!
