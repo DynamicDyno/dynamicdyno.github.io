@@ -293,6 +293,7 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    -webkit-font-smoothing: auto;
 
     @include mobile {
       margin: 0 10px;
@@ -423,6 +424,7 @@ nav {
   margin-top: 3px;
   font-size: 1rem;
   color: #999;
+  -webkit-font-smoothing: auto;
 
   @include mobile {
     float: none;
