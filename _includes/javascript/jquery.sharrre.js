@@ -503,13 +503,7 @@
     }
 
     if(template !== ''){  //if there is a template
-      $('.share-count.facebook').html(this.options.count.facebook);
-      $('.share-count.twitter').html(this.options.count.twitter);
-      $('.share-count.googleplus').html(this.options.count.googlePlus);
-//      template = template.replace('{total}', total);
-//      template = template.replace('{facebook}', this.options.count.facebook);
-//      template = template.replace('{twitter}', this.options.count.twitter);
-//      $(this.element).html(template);
+      $(this.element).html(template);
     }
     else{ //template by defaults
       $(this.element).html(

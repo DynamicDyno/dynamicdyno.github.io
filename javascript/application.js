@@ -42,16 +42,13 @@ function initialize_post() {
         googlePlus: true
       },
       urlCurl: 'http://become-fluent.com/sharrre.php',
-        template: '{facebook},{twitter},{total}',
+      template: '<span></span>',
       enableHover: false,
       enableTracking: true,
       render: function(api, options){
-        $(api.element).on('click', '.twitter', function() {
-          api.openPopup('twitter');
-        });
-        $(api.element).on('click', '.facebook', function() {
-          api.openPopup('facebook');
-        });
+        $('.share-count.facebook').html(options.count.facebook);
+        $('.share-count.twitter').html(options.count.twitter);
+        $('.share-count.googleplus').html(options.count.googlePlus);
       }
     });
 
