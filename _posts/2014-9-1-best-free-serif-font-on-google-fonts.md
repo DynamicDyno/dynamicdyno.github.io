@@ -9,7 +9,7 @@ Google Fonts has plenty of great, high quality sans-serif fonts to choose from. 
 
 It's not just that there are no good serif fonts. Several are quite good, but don't come in enough font weights. If you use large body text, such as on a blog like this one, a 400 weight font is going to look really thick. That's where it's nice to have a 300 weight light font. Unfortunately, free serif fonts tend to only have a couple different font weights, and almost never have a light version.
 
-[Lora](https://www.google.com/fonts/specimen/Lora) only comes in 400 and 600, but its 400 isn't too heavy. In my opinion, it's the highest quality serif font for body text on Google Fonts. It's not as flexible as Proxima Nova or Freight Text Pro, but if you're on a budget, it can pinch hit quite nicely.
+[Lora](https://www.google.com/fonts/specimen/Lora){:rel="nofollow"} only comes in 400 and 600, but its 400 isn't too heavy. In my opinion, it's the highest quality serif font for body text on Google Fonts. It's not as flexible as Proxima Nova or Freight Text Pro, but if you're on a budget, it can pinch hit quite nicely.
 
 ### How can I make it lighter?
 

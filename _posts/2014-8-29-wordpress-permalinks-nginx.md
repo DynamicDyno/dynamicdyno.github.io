@@ -21,7 +21,7 @@ This will generate nice and pretty URLs like:
 http://example.com/hello-world
 ~~~
 
-Well doesn't that just beat all. Until you try to navigate to the page and you get a 404 error. Apparently most people who use WordPress use Apache instead of Nginx, because everyone else I could find on Google who was having this problem was using Apache. In fact, on [The WordPress Codex](http://codex.wordpress.org/Using_Permalinks), they don't even mention that this will work with Nginx:
+Well doesn't that just beat all. Until you try to navigate to the page and you get a 404 error. Apparently most people who use WordPress use Apache instead of Nginx, because everyone else I could find on Google who was having this problem was using Apache. In fact, on [The WordPress Codex](http://codex.wordpress.org/Using_Permalinks){:rel="nofollow"}, they don't even mention that this will work with Nginx:
 
 ![WordPress Permalinks is available for...](/images/wordpress-permalinks-nginx/permalinks-available-for.png)
 

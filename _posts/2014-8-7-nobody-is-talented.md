@@ -5,7 +5,7 @@ description: People aren't inherently good at things. They practiced and became 
 image: billiards.jpg
 ---
 
-People do amazing things. Search YouTube for "people are amazing" and marvel at the shit that [people do](https://www.youtube.com/watch?v=COwidtYzmJo). It's pretty safe to say that whatever the coolest thing is that you've done, someone has done the same thing except 10x better and on steroids. This often leads to a phrase that I don't like hearing:
+People do amazing things. Search YouTube for "people are amazing" and marvel at the shit that [people do](https://www.youtube.com/watch?v=COwidtYzmJo){:rel="nofollow"}. It's pretty safe to say that whatever the coolest thing is that you've done, someone has done the same thing except 10x better and on steroids. This often leads to a phrase that I don't like hearing:
 
 > That person is really talented.
 
