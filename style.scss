@@ -305,6 +305,8 @@ nav {
 // .main
 //
 
+.main { position: relative; }
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightBorder;
@@ -317,7 +319,11 @@ nav {
 
 .main-image-clear {
   height: 100vh;
-  margin-bottom: 80px;
+  margin-bottom: 50px;
+
+  @media screen and (min-width: 980px) {
+    margin-bottom: 80px;
+  }
 }
 
 .post-main-image {
@@ -431,6 +437,125 @@ nav {
   }
 }
 
+//
+// social share icons
+//
+.share-buttons {
+  overflow: hidden;
+  padding-left: 0;
+  margin-bottom: 50px;
+}
+
+.share-buttons li {
+  width: 33.33%;
+  list-style: none;
+  float: left;
+  padding-right: 10px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.share-buttons li:last-child { padding-right: 0; }
+
+.share-count {
+  height: 37px;
+  display: block;
+  text-align: center;
+  padding: 9px 0;
+  border: 1px solid #ccc;
+}
+
+.share-link {
+  display: block;
+  height: 37px;
+  text-align: center;
+  line-height: 35px;
+  padding: 0 8px;
+}
+
+.share-link:hover {
+  text-decoration: none;
+}
+
+.share-button.email .share-link {
+  background-color: #0a88ff;
+
+  &:hover {
+    background-color: #006ed6;
+  }
+}
+
+.share-button.facebook .share-link {
+  background-color: #306199;
+
+  &:hover {
+    background-color: #244872;
+  }
+}
+
+.share-button.googleplus .share-link {
+  background-color: #e93f2e;
+
+  &:hover {
+    background-color: #ce2616;
+  }
+}
+
+.share-button.twitter .share-link {
+  background-color: #26c4f1;
+
+  &:hover {
+    background-color: #0eaad6;
+  }
+}
+
+.share-icon {
+  width: 17px;
+  height: 17px;
+  color: #fff;
+  fill: #fff;
+  vertical-align: -4px;
+}
+.share-button.googleplus .share-icon { vertical-align: -5px; }
+
+.share-buttons .text {
+  color: #fff;
+  margin-left: 5px;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+@media screen and (min-width: 980px) {
+  .share-buttons-wrap {
+    position: absolute;
+    left: -100px;
+    top: 8px;
+    height: 100%;
+  }
+
+  .share-buttons {
+    margin-top: 0;
+    width: 60px;
+    opacity: .6;
+  }
+
+  .share-buttons:hover {
+    opacity: 1;
+  }
+
+  .share-buttons li {
+    width: 100%;
+    float: none;
+    padding-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .share-buttons .text { display: none; }
+}
+
+//
+// footer
+//
+
 .wrapper-footer {
   height: 84px;
   margin-top: 80px;
@@ -446,3 +571,4 @@ footer {
 
 @import "_highlights";
 @import "_fonts";
+@import "_sharrre";
