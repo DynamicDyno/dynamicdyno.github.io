@@ -23,6 +23,6 @@ Unsurprisingly if you've been reading up to this point, the group who told the o
 
 A few days ago I posted [my own personal bucket list](/my-bucket-list/) and I received a bigger response that I thought I would. I immediately thought about the social reality this created for me, and how my friends' recognition of my goals gave me some of the satisfaction that actually *doing* my plans would give me. What, then, can I do to so that I don't lose motivation due to my fake social reality?
 
-If you insist on telling people your goals (like I already did), [Derek Sivers](http://sivers.org/zipit){:rel="nofollow"} advises to phrase it in a way that reminds your brain you have a lot of work to do. Instead of, "I'm going to run a marathon," say, "I'm training for a marathon, so I need to run five times a day to get into shape." Don't give your brain the false sense of accomplishment that leads to less motivation!
+If you insist on telling people your goals (like I already did), [Derek Sivers](http://sivers.org/zipit){:rel="nofollow"} advises to phrase it in a way that reminds your brain you have a lot of work to do. Instead of, "I'm going to run a marathon," say, "I'm training for a marathon, so I need to run five times a week to get into shape." Don't give your brain the false sense of accomplishment that leads to less motivation!
 
 Or just don't tell anyone to begin with. Good luck goal crushing!
