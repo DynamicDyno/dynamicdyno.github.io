@@ -396,7 +396,6 @@ nav {
 }
 
 .post-item {
-  width: 550px;
   margin: 0 auto;
   padding: 10px 0;
   font-size: 1.25em;
@@ -404,7 +403,7 @@ nav {
   overflow: hidden;
   border-bottom: 1px solid #eee;
 
-  @include mobile {
+  @media screen and (max-width: 740px) {
     width: 100%;
     line-height: 1.4;
   }
@@ -416,7 +415,7 @@ nav {
   float: left;
   font-family: $helveticaNeue;
 
-  @include mobile {
+  @media screen and (max-width: 740px) {
     float: none;
     display: block;
   }
@@ -432,7 +431,7 @@ nav {
   color: #999;
   -webkit-font-smoothing: auto;
 
-  @include mobile {
+  @media screen and (max-width: 740px) {
     float: none;
   }
 }
