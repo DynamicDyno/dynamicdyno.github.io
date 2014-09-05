@@ -9,13 +9,13 @@ Conventional wisdom says that if you have a goal, you should tell other people. 
 
 It turns out, though, that conventional wisdom is wrong, and that if you tell someone else about your goal to lose 20 pounds, you're actually *less* likely to achieve it.
 
-Psychologists have been studying this phenomenon for almost a century, starting in the mid 1920s. Basically, you can tell someone that you plan to lose 20 pounds, and then your mind creates what's called a social reality and you feel like you're closer to reaching your goal. That sense of completion will give you some of the same satisfaction as if you had actually done it. And since you've already experienced the satisfaction, what motivation do you have to actually go do it?
+Psychologists have been studying this phenomenon for almost a century, starting in the mid 1920s. Basically, you can tell someone that you plan to lose 20 pounds, and then your mind creates what's called a social reality and you feel like you're closer to reaching your goal. That sense of completion will give you some of the same satisfaction as if you had actually done it. And since you've already experienced the satisfaction, why go do it?
 
 ### Research
 
-In a study done in 2009, [When Intentions Go Public: Does Social Reality Widen the Intention-Behavior Gap?](http://www.psych.nyu.edu/gollwitzer/09_Gollwitzer_Sheeran_Seifert_Michalski_When_Intentions_.pdf){:ref="nofollow"}, researchers gathered first and second year law students for an experiment and split the students into two groups. Then they asked the participants to write down what kinds of behaviors they were planning on doing to become a jurist (for example, reading law periodicals every day), and how important it was to them that they do these behaviors.
+In a study done in 2009, [When Intentions Go Public: Does Social Reality Widen the Intention-Behavior Gap?](http://www.psych.nyu.edu/gollwitzer/09_Gollwitzer_Sheeran_Seifert_Michalski_When_Intentions_.pdf){:ref="nofollow"}, researchers gathered first and second year law students for an experiment and split the students into two groups. Then they asked the participants to write down what exactly they planned to do to become a jurist (for example, reading law periodicals every day), and how important it was to them that they do these things.
 
-One group was then asked to tell the others what they were planning on doing to achieve their goal of becoming a jurist. The other group did not tell anyone about their plans. At the end, both groups were asked to answer the question, "how much do you feel like a jurist right now?"
+One group was then asked to tell the others what they were planning on doing to achieve their goal of becoming a jurist. The other group did not tell anyone about their plans. At the end, the researchers asked both groups to answer the question, "how much do you feel like a jurist right now?"
  
 Unsurprisingly if you've been reading up to this point, the group who told the others about their behavioral plans said that they felt more like a jurist than the group who didn't talk about their plans. Simply having others recognize their intentions was enough to make the participants feel closer to the identity goal.
 
