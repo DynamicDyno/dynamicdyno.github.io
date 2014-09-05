@@ -28,7 +28,7 @@ Choosing `-webkit-font-smoothing: antialiased` is usually a bad idea for dark te
 
 Setting `color: rgba(0,0,0,.75)` will lighten the color of the font. This is an RGBA color, so the first three values are red, green, blue, and the final is the alpha, or transparency. I find it easier to use RGBA colors if I'm setting a transparency. Play around with the last number. .75 is 75% opaque. Find whatever works for your copy.
 
-The last setting won't really make the font itself look lighter. `letter-spacing: .01em;` will space the letters slightly further apart. Giving the letters a little more breathing room will make it seem like there is more whitespace, which gives it an overall lighter feel.
+The last setting won't really make the font itself look lighter. `letter-spacing: .01em;` will space the letters slightly farther apart. Giving the letters a little more breathing room will make it seem like there is more whitespace, which gives it an overall lighter feel.
 
 Take a look at the difference in the Lora font before and after these CSS settings are used:
 
