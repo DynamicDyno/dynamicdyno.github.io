@@ -209,10 +209,6 @@ code {
   font-family: $helveticaNeue;
 }
 
-.wrapper-masthead.image-post {
-  position: absolute;
-}
-
 .masthead {
   padding: 20px 0;
   
@@ -254,7 +250,7 @@ code {
 }
 
 .site-name {
-  margin: 1px 0 0;
+  margin: 12px 0 0;
   color: $teal;
   cursor: pointer;
   font-weight: 300;
@@ -296,6 +292,25 @@ nav {
       margin: 0 10px;
     }
   }
+}
+
+//
+// header styles for image posts
+//
+
+.wrapper-masthead.image-post {
+  position: absolute;
+  height: 150px;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.5), transparent);
+  border-bottom: 0;
+}
+
+.image-post a {
+  color: #fff;
+}
+
+.image-post .site-name {
+  color: #fff;
 }
 
 //
