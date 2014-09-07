@@ -15,6 +15,19 @@ initialize_post();
 
 function initialize_post() {
   var share_buttons = $('.share-buttons');
+
+  // fix for vh bug in iOS7
+  var iOS = navigator.userAgent.match(/(iPod|iPhone|iPad)/);
+  if(iOS){
+    function iosVhHeightBug() {
+      var height = $(window).height();
+      $(".main-image-clear, .post-main-image, .image-h1-wrapper-outer").css('height', height);
+    }
+
+    iosVhHeightBug();
+    $(window).bind('resize', iosVhHeightBug);
+  }
+
   if (share_buttons.length) {
     var share_buttons_position = share_buttons.offset();
 
