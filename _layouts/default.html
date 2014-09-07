@@ -21,7 +21,12 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css?v1" />
+    <style>
+      {% capture include_to_scssify %}
+      {% include style.scss %}
+      {% endcapture %}
+      {{ include_to_scssify | scssify }}
+    </style>
 
     <script src="/javascript/application.js?v1" type="text/javascript" async></script>
 
