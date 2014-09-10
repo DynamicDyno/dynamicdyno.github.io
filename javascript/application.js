@@ -6,6 +6,7 @@
 {% include javascript/scrollr.js %}
 {% include javascript/jquery.sharrre.js %}
 
+// on mobile / touch devices, get rid of the fadeOut titles on image posts
 if (Modernizr.touch)
   skrollr.init().destroy();
 else
@@ -28,6 +29,7 @@ function initialize_post() {
     $(window).bind('resize', iosVhHeightBug);
   }
 
+  // js for share buttons
   if (share_buttons.length) {
     var share_buttons_position = share_buttons.offset();
 

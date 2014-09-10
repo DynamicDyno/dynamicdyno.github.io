@@ -127,6 +127,7 @@ ul {
 
 ol {
   list-style-type: decimal;
+  margin: 0 0 30px;
 }
 
 ol ul, ul ol, ul ul, ol ol {
@@ -135,6 +136,11 @@ ol ul, ul ol, ul ul, ol ol {
 
 ul ul, ol ul {
   list-style-type: circle;
+}
+
+ol li {
+  font-size: 1.25em;
+  line-height: 1.7;
 }
 
 em, i {
