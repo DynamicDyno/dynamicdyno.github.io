@@ -5,7 +5,7 @@ description: I have a few friends (acquaintances is probably the better word) wh
 image: friends-changed-me.jpg
 ---
 
-Most people can probably make a list of people who have significantly impacted their life in one way or another. Parents would likely be at the top of most lists (including mine). Best friends would almost certainly make the cut. But those are people that we interact with all the time, and it's not a surprise that they would be influential in our lives. What about people who you rarely (or never) see or talk to, but somehow managed to change your life forever?
+Most people can probably make a list of people who have significantly impacted their life in one way or another. Parents would likely be at the top of most lists (including mine). Best friends would almost certainly make the cut. But those are people who we interact with all the time, and it's not a surprise that they would be influential in our lives. What about people who you rarely (or never) see or talk to, but somehow managed to change your life forever?
 
 I have three of those people.
 
