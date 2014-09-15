@@ -49,6 +49,6 @@ I continued arguing with him on the newspaper website and on Facebook. What he s
 
 ### Others
 
-There are plenty of people in my life who have made a lasting effect on me. So much of who I am as a person was shaped by my parents, and their influence is so widespread that it's hard to even know where it begins or ends. With these three people, though, there were very specific, defining conversations that forever changed who I am. And I doubt they had any clue before reading this.
+There are plenty of people in my life who have made a lasting effect on me. So much of who I am as a person was shaped by my parents, and their influence is so widespread that it's hard to even know where it begins or ends. With these three people, though, there were very specific, defining conversations that forever changed who I am. And I doubt they had any clue before reading this. To you three: thank you!
 
 Do you know people who have changed your life and they have no idea? Let me know!
