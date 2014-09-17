@@ -36,6 +36,41 @@ layout: default
 </div>
 <!--</div>-->
 
+{% assign selected_post = nil %}
+{% assign pick_next_post = false %}
+{% assign do_not_pick_another_post = false %}
+
+{% for post in site.posts %}
+  {% for category in post.categories %}
+    {% if page.categories contains category %}
+      {% unless do_not_pick_another_post %}
+        {% if page.id == post.id %} {% comment %} related posts can't be the same as the current page {% endcomment %}
+          {% assign pick_next_post = true %}
+        {% elsif pick_next_post == true %} {% comment %} the last iteration was the current page, so select the next one as the related post and then basically exit the loop {% endcomment %}
+          {% assign selected_post = post %}
+          {% assign do_not_pick_another_post = true %}
+        {% else %} {% comment %} keep replacing the related post until we make it to the current page {% endcomment %}
+          {% assign selected_post = post %}
+        {% endif %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% if selected_post %}
+  <a href="{{ selected_post.url }}">
+    <div class="related-post-section" style="background-image: url(/images/{{ selected_post.image }});">
+      <div class="related-post-wrapper">
+        <div class="related-post-content">
+          <div class="container">
+            <h3>{{ selected_post.title }}</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+{% endif %}
+
 <script type="text/javascript">
   // due to turbolinks, scrollr needs to be refreshed to update itself.
   if (typeof skrollr !== 'undefined') {

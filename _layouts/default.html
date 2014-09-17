@@ -40,7 +40,7 @@
 
   </head>
 
-  <body>
+  <body class="{{page.layout}}">
     <div class="page-wrap">
       <div class="wrapper-masthead {% if page.image %}image-post{% endif %}">
         <div class="container">
@@ -59,8 +59,8 @@
         </div>
       </div>
 
-    {{ content }}
-  </div>
+      {{ content }}
+    </div>
 
     <div class="wrapper-footer">
       <div class="container">

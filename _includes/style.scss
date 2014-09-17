@@ -27,13 +27,13 @@ body {
 
 .page-wrap {
   min-height: 100%;
-  margin-bottom: -164px;
+  margin-bottom: -84px;
 }
 
 .page-wrap:after {
   content: "";
   display: block;
-  height: 164px;
+  height: 84px;
 }
 
 .container {
@@ -325,6 +325,10 @@ nav {
 
 .main { position: relative; }
 
+.posts {
+  margin-bottom: 40px;
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightBorder;
@@ -452,6 +456,37 @@ nav {
   }
 }
 
+.related-post-section {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  margin-top: 80px;
+  background-position: center;
+  z-index: 20;
+}
+
+.related-post-wrapper {
+  display: table;
+  width: 100%;
+  height: 500px;
+  background: rgba(0,0,0,.3);
+}
+
+.related-post-content {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.related-post-content h3 {
+  color: #fff;
+  margin-top: 0;
+  text-align: center;
+}
+
+.related-post-section:hover h3 {
+  text-decoration: underline;
+}
+
 //
 // social share icons
 //
@@ -459,6 +494,7 @@ nav {
   overflow: hidden;
   padding-left: 0;
   margin-bottom: 50px;
+  z-index: 15;
 }
 
 .share-buttons li {
@@ -551,6 +587,7 @@ nav {
     margin-top: 0;
     width: 60px;
     opacity: .6;
+    margin-bottom: 0;
   }
 
   .share-buttons:hover {
@@ -573,7 +610,6 @@ nav {
 
 .wrapper-footer {
   height: 84px;
-  margin-top: 80px;
   border-top: 1px solid $lightBorder;
   border-bottom: 1px solid $lightBorder;
   background-color: $lightGray;
