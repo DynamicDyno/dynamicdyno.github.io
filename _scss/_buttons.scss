@@ -1,0 +1,13 @@
+.cta-button {
+  color: #fff;
+  background-color: $teal;
+  font-family: $helveticaNeue;
+  font-weight: 600;
+  padding: 10px 20px;
+}
+
+.cta-button:hover {
+  color: #fff;
+  background-color: $teal_hover;
+  text-decoration: none;
+}
