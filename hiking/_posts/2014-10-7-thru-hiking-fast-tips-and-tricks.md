@@ -5,9 +5,9 @@ description: Tips and Tricks for thru-hiking fast. Do more miles every day on yo
 image: colorado-trail.jpg
 ---
 
-Most thru-hikers that I encountered on my 2014 SOBO thru-hike of the Colorado Trail were averaging about 15 miles a day. In fact, it was unexpectedly rare to see anyone doing more than that. I had a hard deadline though. I took three weeks off work and I bought a ticket from Durango to Denver for the day after I expected to be finished. I needed to go fast and I didn't have much leeway. 
+Most thru-hikers that I encountered on [my 2014 SOBO thru-hike of the Colorado Trail](/colorado-trail-thru-hike/) were averaging about 15 miles a day. In fact, it was unexpectedly rare to see anyone doing more than that. I had a hard deadline though. I took three weeks off work and I bought a ticket from Durango to Denver for the day after I expected to be finished. I needed to go fast and I didn't have much leeway. 
 
-When I was on the Colorado Trail I averaged over 25 miles a day, including days where I had to go to town to resupply. Here is a collection of tips that I learned along the way that helped me thru-hike fast.
+Most days that I was on the Colorado Trail I hiked nearly 30 miles. Here is a collection of tips that I learned along the way that helped me thru-hike fast.
 
 ### 1. Keep your expectations realistic.
 
@@ -17,9 +17,9 @@ If you're trying to thru-hike a long distance trail by a certain date, know that
 
 If you plan to start doing high mileage days from the start, you need to be conditioned. You especially need to condition the parts of your body that will be receiving the most stress, such as your feet and knees. **Your number one problem on the trail will be injuries**, so whatever you can do to avoid them will be useful. It's really hard on your joints to go from a normal life to hiking 20 - 30 miles a day. You should be hiking as much as you can prior to your trip to ease your body into it.
 
-If you're planning on starting with moderate mileage and working your way up, this is less important. But if you plan to doing 25+ mile days right away and sustain that, I can almost guarantee that you will be struggling with injuries unless you properly conditioned your legs beforehand.
+If you're planning on starting with moderate mileage and working your way up, this is less important. But if you plan to do 25+ mile days right away and sustain that, I can almost guarantee that you will be struggling with injuries unless you properly conditioned your legs beforehand.
 
-I stopped at Leadville 7 days into my hike due to an ankle injury. I averaged 26 miles my first 4 days and then on my 5th day I injured my left ankle. I tried hiking on it for a couple more days and it got worse, and I knew I had to rest it. When I got to the Leadville hostel, I met another guy who was also averaging 26 miles a day, and he was also stopped there because of an injury, although his was knee tendinitis. His was so bad that he had to stop his thru-hike attempt. He was the only other person I met who was averaging over 20 miles a day, and he had to quit due to an injury. After I got back on the trail, I started to get knee tendinitis in my right knee as well.
+I stopped at Leadville 7 days into my hike due to an ankle injury. I averaged 26 miles my first 4 days and then on my 5th day I injured my left ankle. I tried hiking on it for a couple more days and it got worse, and I knew I had to rest it. When I got to the Leadville hostel, I met another guy who was also averaging 26 miles a day, and he was also stopped there because of an injury, although his was knee tendinitis. His was so bad that he had to stop his thru-hike attempt. He was the only other person I met who was averaging over 20 miles a day, and he had to quit due to an injury. After I got back on the trail, I started to get knee tendinitis in my right knee as well. Injuries happen especially often when you put unconventional stress on an unconditioned body.
 
 After you've hiked a few hundred miles you will be a lot less susceptible to injuries. Until then, be careful. Either condition yourself beforehand, or go slower in the beginning. Injuries *will* end thru-hikes prematurely. 
 
@@ -56,7 +56,7 @@ I know. I love campfires too. It almost doesn't even feel like camping without o
 
 You're going to lose weight, and there's not much you can do about it. It's essential that you try to get as many calories as possible. I think the most I ever ate was about 4000 calories in a day. It was very hard for me to eat more than that, even eating very calorie dense foods.
 
-If you hike 25 - 30 miles a day with steep elevation gains and descents, you'll likely be burning up to 7500 calories. 3500 calories is equal to a pound, so if you eat 4000 calories and burn 7500 in one day, you'll lose a pound. Remember Michael Phelps and [his crazy 12,000 calorie diet](http://linkhere.com){:rel="nofollow"}? Do whatever it takes to get your body more calories. You'll have more energy to hike further. 
+If you hike 25 - 30 miles a day with steep elevation gains and descents, you'll likely be burning up to 7500 calories. 3500 calories is equal to a pound, so if you eat 4000 calories and burn 7500 in one day, you'll lose a pound. Remember Michael Phelps and [his crazy 12,000 calorie diet](http://www.michaelphelps.net/michael-phelps-diet/){:rel="nofollow" target="_blank"}? Do whatever it takes to get your body more calories. You'll have more energy to hike further. 
 
 ### 9. Carry less food
 
@@ -65,6 +65,8 @@ This might seem like a contradiction to the last tip, but it's important. When y
 What's the point of spending $400 on that ultra lightweight tarp tent that saves you a pound if you're going to carry a couple extra pounds of food everywhere you go? Fun fact: **a pound of food weighs precisely the same as a pound of sleeping bag**. Hikers are good at reducing base back weight, but all too often bring way too much food.
 
 When you're buying food at a resupply town, think about *when* you will eat everything you buy. Segment out food by breakfast, lunch, dinner, and snacks. If you know when you're going to eat something, you'll probably eat it. If you grab it thinking, "I'll eat this sometime," you probably won't. Count the calories and get the precise amount that you need for however many days you'll be on the trail.
+
+People tend to eat about 1.2 to 2 pounds of food per day, if the food is fairly calorie dense. You'll eat a lot less at the beginning of your hike, but your appetite will keep getting bigger and bigger. **Protip: when resupplying in a grocery store, weigh your food on the vegetable scale.** Get your food per day between 1.2 and 2 pounds, depending on where you are in your hike and how much you're eating.
 
 Don't be afraid to bring too little food. **Err on the side of not having enough food**. Seriously. Unless you're in a remote place like Alaska where running out of food could be a serious disaster. Most places along the big hiking trails in the US, though, you're never *that* far from a road. If worse comes to worse, you can ration food on your last day. Just don't bring too much food. Remember that you'll be eating in town before leaving town and before hitting the trail again, so you won't need to carry those meals.
 
@@ -86,7 +88,7 @@ If you can get into town at night and leave in early in the morning, it's not th
 
 ### 13. Make rules for breaks
 
-You have to take breaks. Even if you're hiking 30+ miles a day. But don't let your breaks get out of control. Establish time limits and note the time when you start. Sometimes it can feel so nice to stop hiking when you're tired that the time flies by. If you take note of what time you start it'll be harder to lose track of time and waste too much time not hiking. I found that I wanted to take breaks more often later in the day when I was tired. It's okay to take breaks--but don't let them get out of control where you're constantly stopping and taking a lot of time at each stop.
+You have to take breaks. Even if you're hiking 30+ miles a day. But don't let your breaks get out of control. Establish time limits and note the time when you stop moving. Sometimes it can feel so nice to stop hiking when you're tired that the time flies by. If you take note of what time the break started it'll be harder to lose track of time and waste too much time not hiking. I found that I wanted to take breaks more often later in the day when I was tired. It's okay to take breaks--but don't let them get out of control where you're constantly stopping and taking a lot of time at each stop.
 
 ### 14. Consider going stoveless
 
@@ -94,7 +96,7 @@ Everyone loves a hot meal on the trail, but if you want to put in a lot of miles
 
 ### 15. Wear lightweight shoes
 
-Forget the heavy Gore-Tex boots that weigh pounds each. Find a pair of lightweight trail running shoes that you like and break them in before the trip. Your shoes *will* get wet, regardless of what kind you bring, so it's best to have shoes that breathe well and will dry fast. The lighter they are the less work your legs have to do to move them around. I enjoyed my pair of [Inov8 trail runners](http://linkhere.com){:rel="nofollow"}.  
+Forget the heavy Gore-Tex boots that weigh pounds each. Find a pair of lightweight trail running shoes that you like and break them in before the trip. Your shoes *will* get wet, regardless of what kind you bring, so it's best to have shoes that breathe well and will dry fast. The lighter they are the less work your legs have to do to move them around. I enjoyed my pair of [Inov8 trail runners](http://www.amazon.com/gp/product/B008KSADAQ/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1){:rel="nofollow" target="_blank"}.  
 
 ### 16. Be mentally prepared for long, challenging days
 
@@ -103,3 +105,9 @@ Thru-hiking fast is possibly more mentally challenging than physically challengi
 Be prepared for bad weather with no end in sight. For a week I had all day storms. I spent 12 - 14 hours hiking in sopping wet socks and shoes every day. Be prepared for relentless bad weather. You might not have any, but if you go in with the mindset that you will, you'll be in better shape if it does find you.
 
 Nobody said it would be easy. But it's very rewarding and well worth the effort!
+
+<div class="centered-div" markdown="1">
+
+[Check out my book about my CT thru-hike](http://www.amazon.com/Exploring-Rockies-Thru-Hike-Colorado-Trail-ebook/dp/B00NRLDKGA/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1411419732&sr=1-1&keywords=colorado+trail+thru+hike){:class="cta-button" target="_blank"}
+
+</div>

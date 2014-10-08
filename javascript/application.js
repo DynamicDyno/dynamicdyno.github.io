@@ -32,18 +32,16 @@ function initialize_post() {
   // js for share buttons
   if (share_buttons.length) {
     var share_buttons_position = share_buttons.offset();
+    var $window = $(window);
 
-    $(window).scroll(function() {
-      if($(this).width() > 979) {
+    $window.scroll(function() {
+      if($window.width() > 979) {
         if ( $(this).scrollTop() > ( $('.share-buttons-wrap').height() + 554 ) ) {
           share_buttons.css('position','absolute').css('top', 'auto').css('bottom', '0');
-          console.log('2: ' + share_buttons_position.top);
-        } else if ( $(this).scrollTop() > ( share_buttons_position.top - 88 ) ) {
+        } else if ( $window.scrollTop() > ( share_buttons_position.top - 88 ) ) {
           share_buttons.css('position', 'fixed').css('top', '88px').css('bottom', 'auto');
-          console.log('1: ' + share_buttons_position.top);
         } else {
           share_buttons.css('position','absolute').css('top', '0').css('bottom', 'auto');
-          console.log('3: ' + share_buttons_position.top);
         }
       }
     });
