@@ -116,8 +116,20 @@ a {
   }
 }
 
+li {
+  line-height: 1.7;
+  font-size: 1.25em;
+  letter-spacing: 0.01rem;
+  font-weight: 300;
+
+  @include mobile {
+    font-size: 1.1em;
+    line-height: 1.5;
+  }
+}
+
 ul, ol {
-  margin: 15px 0;
+  margin: 0 0 30px;
   padding-left: 30px;
 }
 
@@ -517,10 +529,12 @@ nav {
 
 .share-count {
   height: 37px;
+  line-height: 1;
   display: block;
   text-align: center;
   padding: 9px 0;
   border: 1px solid #ccc;
+  font-size: 0.85em;
 }
 
 .share-link {
