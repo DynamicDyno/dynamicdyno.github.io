@@ -88,7 +88,7 @@ sudo postmap /etc/postfix/virtual
 sudo /etc/init.d/postfix reload
 {% endhighlight %}
 
-And that's it! You should be good to go. Send a message from a different account (for whatever reason, Gmail wouldn't deliver my messages from the same account) and see if it arrives in your inbox. If it's not arriving, try tailing the Postfix error log whiel you send an email:
+And that's it! You should be good to go. Send a message from a different account (for whatever reason, Gmail wouldn't deliver my messages from the same account) and see if it arrives in your inbox. If it's not arriving, try tailing the Postfix error log while you send an email:
 
 {% highlight bash %}
 tail -f /var/log/mail.log
