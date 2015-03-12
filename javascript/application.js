@@ -60,7 +60,7 @@ function initialize_post() {
         facebook: true,
         googlePlus: true
       },
-      urlCurl: 'http://become-fluent.com/sharrre.php',
+      urlCurl: 'https://goodandlost.com/sharrre.php',
       template: '<span></span>',
       enableHover: false,
       enableTracking: true,
