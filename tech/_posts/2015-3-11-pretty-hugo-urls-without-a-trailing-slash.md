@@ -6,7 +6,7 @@ description: A tutorial for setting up Hugo to generate clean, pretty URLs that 
 
 I care a lot about URLs, to the point that I wish I cared less about them. Bad URL structures are unprofessional and look crappy.
 
-[Hugo](http://gohugo.io/){:rel="nofollow} does a pretty good job of generating URLs. In fact, [up to version v0.11](https://github.com/spf13/hugo/issues/492){:rel="nofollow} they generated amazing URLs! And then they started adding the dreaded trailing slash. Instead of:
+[Hugo](http://gohugo.io/){:rel="nofollow"} does a pretty good job of generating URLs. In fact, [up to version v0.11](https://github.com/spf13/hugo/issues/492){:rel="nofollow"} they generated amazing URLs! And then they started adding the dreaded trailing slash. Instead of:
 
 {% highlight bash %}
 https://example.com/my-post
