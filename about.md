@@ -4,7 +4,7 @@ title: About
 canonical: http://www.kevinsweet.com/about
 ---
 
-I'm a front end developer living in Boulder, CO. I work for [SendGrid](http://sendgrid.com). I make beautiful and blazingly fast websites.
+I'm just a guy who wants to see the world. Currently homeless, unemployed, and rich in life.
 
 I like to travel, rock climb, hike, snowboard, and learn languages.
 
