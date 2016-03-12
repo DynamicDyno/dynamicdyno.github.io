@@ -12,6 +12,13 @@ if (Modernizr.touch)
   skrollr.init().destroy();
 else
   var s = skrollr.init();
+  
+// on 2016-02-01 GitHub Pages upgraded to Jekyll3, which broke all blog posts with trailing slashes
+// and there are tons of links out there on the web to posts with a trailing slash, so can't ignore it
+var url = location.href;
+if(url.substr(url.length - 1) === '/') {
+  window.location = url.substr(0, url.length - 1);
+}
 
 initialize_post();
 
