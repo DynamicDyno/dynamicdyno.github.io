@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Favorite Albums of 2015
+title: My Favorite Albums of 2014
 description: My top ten favorite albums of 2015. Not necessarily the best or most original. Deal with it.
 image: lighght.jpg
 ---
