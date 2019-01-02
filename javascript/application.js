@@ -5,7 +5,6 @@
 {% include javascript/modernizr.js %}
 {% include javascript/scrollr.js %}
 {% include javascript/jquery.sharrre.js %}
-{% include javascript/viglink.js %}
 
 // on mobile / touch devices, get rid of the fadeOut titles on image posts
 if (Modernizr.touch)
