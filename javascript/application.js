@@ -1,7 +1,7 @@
 ---
 ---
 {% include javascript/jquery-1.11.1.min.js %}
-{% include javascript/turbolinks.js %}
+//{% include javascript/turbolinks.js %}
 {% include javascript/modernizr.js %}
 {% include javascript/scrollr.js %}
 {% include javascript/jquery.sharrre.js %}
