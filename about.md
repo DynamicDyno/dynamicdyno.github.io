@@ -4,8 +4,6 @@ title: About
 canonical: http://www.kevinsweet.com/about
 ---
 
-I'm just a guy who wants to see the world. Currently homeless, unemployed, and rich in life.
-
 I like to travel, rock climb, hike, snowboard, and learn languages.
 
 I spend a lot of time thinking about all of the things that I want to accomplish in life. You can check out [my bucket list](/my-bucket-list/) to see what I find important.
